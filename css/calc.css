@@ -1,0 +1,20 @@
+#root {
+	width: 200px;
+	margin: auto;
+	margin-top: 50px;
+	border: 1px solid gray;
+	background-color: #99ccff;
+}
+input {
+	width: 186px;
+	height: 30px;
+	font-size: 20px;
+	padding: 5px;
+	background-color: #f9f9f9;
+}
+button {
+	width: 40px;
+	height: 40px;
+	margin: 5px;
+	background-color: #ffffb3;
+}
